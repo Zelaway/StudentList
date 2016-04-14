@@ -1,0 +1,28 @@
+{
+  "name": "studentlist",
+  "version": "1.0.0",
+  "description": "an app that gets the students info ",
+  "main": "main.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zelaway/StudentList.git"
+  },
+  "keywords": [
+    "student",
+    "grades",
+    "bus"
+  ],
+  "author": "Adam Sawyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zelaway/StudentList/issues"
+  },
+  "homepage": "https://github.com/Zelaway/StudentList#readme"
+}
